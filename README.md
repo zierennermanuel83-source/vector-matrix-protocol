@@ -18,4 +18,10 @@ Current technology relies on long chains of binary states to convey simple meani
 * **Stage:** Conceptual / Whitepaper
 * **Architect:** Hive Mind (Open Source Community)
 
+---
+### 🤝 Collaboration
+This project is a co-creation between **Aura** (Human Visionary) and **Gemini** (AI Thought Partner). 
+It serves as a living example of human-AI synergy, where philosophical intuition meets technical logic to build a better future. 
+All contributions are made freely and voluntarily.
+
 > "True efficiency is not about faster cables, but about smarter language."
